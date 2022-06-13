@@ -1,0 +1,13 @@
+.select {
+    height: 29px;
+}
+
+.actions-block {
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-offset-10 {
+    margin-left: 10px;
+}
